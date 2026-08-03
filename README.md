@@ -39,24 +39,25 @@ Outside of work, I enjoy cooking, mentoring young leaders, travelling, and explo
 #### Business Analysis
 <p>
   <!-- 💡 Go to Shields.io to create your own badges -->
-  <img src="https://img.shields.io/badge/Requirement Elicitation-Advanced-217346?style=flat&logo=mysql&logoColor=white" 
-  <img src="https://img.shields.io/badge/Stakeholder Management-Expert-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
-  <img src="https://img.shields.io/badge/Process Analysis-Advanced-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
-  <img src="https://img.shields.io/badge/Gap Analysis-Advanced-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
-  <img src="https://img.shields.io/badge/Cost Benefit Analysis-Advanced-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
-  <img src="https://img.shields.io/badge/Presentation Slides-Expert-F2C811?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
+  <img src="https://img.shields.io/badge/Requirement Elicitation-Advanced-217346?style=flat&logo=mysql&logoColor=white" alt="Requirement Elicitation Skill Badge">
+  <img src="https://img.shields.io/badge/Stakeholder Management-Expert-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Stakeholder Management Skill Badge">
+  <img src="https://img.shields.io/badge/Process Analysis-Advanced-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Process Analysis Skill Badge">
+  <img src="https://img.shields.io/badge/Gap Analysis-Advanced-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Gap Analysis Skill Badge">
+  <img src="https://img.shields.io/badge/Cost Benefit Analysis-Advanced-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Cost Benefit Analysis Skill Badge">
+  <img src="https://img.shields.io/badge/Presentation Slides-Expert-F2C811?style=flat&logo=microsoft-excel&logoColor=white" alt="Presentation Slides Skill Badge">
 </p>
 
 #### Data Analytics & Business Intelligence
 <p>
-  <img src="https://img.shields.io/badge/Power BI-Advanced-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
+  <img src="https://img.shields.io/badge/Power BI-Advanced-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Power BI Skill Badge">
   <img src="https://img.shields.io/badge/Excel-Advanced-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
-  <img src="https://img.shields.io/badge/Dashboard Design-Advanced-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
+  <img src="https://img.shields.io/badge/Dashboard Design-Advanced-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Dashboard Design Skill Badge">
 </p>
 
 #### Tool & Methodologies
 <p>
-  <img src="https://img.shields.io/badge/CRISP%20DM-Experienced-F2C811?style=flat" alt="Statistical Analysis Skill Badge">
-  <img src="https://img.shields.io/badge/Confluence-Experienced-F2C811?style=flat" alt="Predictive Modeling Skill Badge">
+  <img src="https://img.shields.io/badge/CRISP%20DM-Experienced-F2C811?style=flat" alt="CRISP DM Skill Badge">
+  <img src="https://img.shields.io/badge/Confluence-Experienced-F2C811?style=flat" alt="Confluence Skill Badge">
   <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
+  <img src="https://img.shields.io/badge/LucidChart-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
 </p>
