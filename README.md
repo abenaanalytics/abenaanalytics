@@ -39,7 +39,7 @@ Outside of work, I enjoy cooking, mentoring young leaders, travelling, and explo
 #### Business Analysis
 <p>
   <!-- 💡 Go to Shields.io to create your own badges -->
-  <img src="https://img.shields.io/badge/Requirement Elicitation-Advanced-217346?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
+  <img src="https://img.shields.io/badge/Requirement Elicitation-Advanced-217346?style=flat&logo=mysql&logoColor=white" 
   <img src="https://img.shields.io/badge/Stakeholder Management-Expert-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
   <img src="https://img.shields.io/badge/Process Analysis-Advanced-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
   <img src="https://img.shields.io/badge/Gap Analysis-Advanced-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
