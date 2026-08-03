@@ -25,7 +25,7 @@ Outside of work, I enjoy cooking, mentoring young leaders, travelling, and explo
 ## 🔭 What I'm Currently Working On 
 
 - **AI-Powered Regulatory Compliance Intelligence Platform:** Developing an AI-powered solution that enables faster, more accurate regulatory research and compliance decision-making through intelligent search and AI-generated legal insights.  
-- **Harmonie Medical Centre Appointment Scheduling Optimisation:** Analysed scheduling challenges and developed a business solution to improve appointment management, reduce no-shows, and enhance patient experience.
+- **Harmonie Medical Centre Appointment Scheduling Optimisation:** Analysing scheduling challenges and developing a business solution to improve appointment management, reduce no-shows, and enhance patient experience.
 
 ## 🌱 Current Interests
 
