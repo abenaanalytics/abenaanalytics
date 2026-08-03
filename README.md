@@ -24,9 +24,8 @@ Outside of work, I enjoy cooking, mentoring young leaders, travelling, and explo
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+- **AI-Powered Regulatory Compliance Intelligence Platform:** Developing an AI-powered solution that enables faster, more accurate regulatory research and compliance decision-making through intelligent search and AI-generated legal insights.  
+- **Harmonie Medical Centre Appointment Scheduling Optimisation:** Analysed scheduling challenges and developed a business solution to improve appointment management, reduce no-shows, and enhance patient experience.
 
 ## 🌱 Current Interests
 
